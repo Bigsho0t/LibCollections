@@ -1,0 +1,4 @@
+#pragma once
+
+#define HASH_LOAD_FACTOR 0.75
+#define HASH_INITIAL_CAPACITY 101
